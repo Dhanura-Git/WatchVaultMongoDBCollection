@@ -1,0 +1,391 @@
+[{
+  "_id": {
+    "$oid": "669e42754edbc3a309d805d0"
+  },
+  "name": "Alice",
+  "email": "alice@gmail.com",
+  "password": "$2b$10$a0cTPqosUV6otKXX5ECiUOupIie607nGs1hngtdhWXlB4STJ3SzxG",
+  "mobile": 9947533347,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e45d265b83ba410101390"
+  },
+  "name": "Baby",
+  "email": "baby@gmail.com",
+  "password": "$2b$10$CflnThIILvuqguL9yEW.3ucCtaGVqjfcMbj/wKk5zeTlB0QjJ.DiG",
+  "mobile": 9876857463,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e4ca3560f820e94e39674"
+  },
+  "name": "Cathy",
+  "email": "cathy@gmail.com",
+  "password": "$2b$10$xZKqMd33UN6RqDUN8dxaRuypn5ADGJ3GEurTyHLDRnkei8qvBgAOq",
+  "mobile": 5634768797,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0d1e509c0506ce4e636f5"
+  },
+  "name": "Elsa",
+  "email": "elsa@gmail.com",
+  "password": "$2b$10$mH8djxmBHmIaywQlu5fr0ecgLAo64oeES3ogIl0cIZ/P8EBtkhcgG",
+  "mobile": 9876857463,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1e9287313631cab2c14a7"
+  },
+  "name": "Dhanura",
+  "email": "dhanura@gmail.com",
+  "password": "$2b$10$k6u4ai3tgBcrRxlTCAKrauElGfPrGO0SJJcQresmdttsIlH8RMyJq",
+  "mobile": 7560901522,
+  "is_admin": true,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a31945ae1dc494eb7c3dc6"
+  },
+  "name": "Fejo",
+  "email": "fejo@gmail.com",
+  "password": "$2b$10$Wl6gTWomrSIwP7BuAo6vKuDDJN/1RvIlmbNH.pN1TZyDbyQwQySBa",
+  "mobile": 5634768797,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a31a0aae1dc494eb7c3dca"
+  },
+  "name": "Fathima",
+  "email": "fathima@gmail.com",
+  "password": "$2b$10$bkEjEXkoDrpYPGblyWftkOS4wogT9lTDTxfDxTvY281UfRoIdcoUS",
+  "mobile": 9947533347,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 22,
+  "Coupon": [
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66ffe09fff5ece51dbc5b5c1"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66ffe0a4ff5ece51dbc5b5d3"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66ffe0a4ff5ece51dbc5b5e4"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66ffe0d2ff5ece51dbc5b5f7"
+      }
+    },
+    {
+      "couponCode": "AADSAL30",
+      "_id": {
+        "$oid": "6708ac0b10833a06889229da"
+      }
+    },
+    {
+      "couponCode": "AADSAL30",
+      "_id": {
+        "$oid": "6708b8faa673a2b79e7fac01"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670bba95f14efdedcd6969b1"
+      }
+    },
+    {
+      "couponCode": "AADSAL30",
+      "_id": {
+        "$oid": "670bbf954b4bca6f13b8d19f"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d239c6bc8d34dd2d91d26"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d239d6bc8d34dd2d91d4c"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d239e6bc8d34dd2d91d74"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d23a46bc8d34dd2d91d9e"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d23a46bc8d34dd2d91dca"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d23a56bc8d34dd2d91df8"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d241d9a049ca7a063bb87"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670d2c4122e42b0f8cf39c4d"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "670df42be4576918145f5b66"
+      }
+    },
+    {
+      "couponCode": "AADSAL30",
+      "_id": {
+        "$oid": "6711fbf28fd263ef5d3a674d"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "6711fd468fd263ef5d3a6887"
+      }
+    },
+    {
+      "couponCode": "AADSAL30",
+      "_id": {
+        "$oid": "6711fe498e3d53ede3f909b3"
+      }
+    },
+    {
+      "couponCode": "FREEDEL100",
+      "_id": {
+        "$oid": "6714d8cd95defdd469dfc151"
+      }
+    },
+    {
+      "couponCode": "rtrt",
+      "_id": {
+        "$oid": "671a134df9cde56c4be30917"
+      }
+    }
+  ],
+  "token": ""
+},
+{
+  "_id": {
+    "$oid": "66a32f7bfe1fc1c89368108c"
+  },
+  "name": "Seema",
+  "email": "seema@gmail.com",
+  "password": "$2b$10$TOAEroddZFcpUjO48grJ5uGTdChrH.NWrlIfTX9sZOyAXzIhtM3im",
+  "mobile": 9947533347,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ac9d0bdbf12ca3d944b0e2"
+  },
+  "name": "Miku",
+  "email": "miku@gmail.com",
+  "password": "$2b$10$Aj9xnjhh95mBl36PNJ9TougBx8G/FLbjvOeRGbnnhOgoFZeBTE0VW",
+  "mobile": 5634768797,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 1,
+  "Coupon": []
+},
+{
+  "_id": {
+    "$oid": "66ac9f17dbf12ca3d944b0ec"
+  },
+  "name": "Nikki",
+  "email": "nikki@gmail.com",
+  "password": "$2b$10$jiPvhqHl2x2XkdvcOhKmUe0hCN5wV7b20uxSra26ipjbTztlwILZe",
+  "mobile": 1111119811,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aca220ba76777c47526d24"
+  },
+  "name": "Diya",
+  "email": "diya@gmail.com",
+  "password": "$2b$10$kVTO1Kp5GrTjEJcPJbgPjOS85jpbllsmupCljK2BMMao2f2bqOO.K",
+  "mobile": 8765436789,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b44a24626dafd2dda2145d"
+  },
+  "name": "Olive",
+  "email": "olive@gmail.com",
+  "password": "$2b$10$.siFU0FpgHQndFbmBCDTIeh0tsknzQxt8Tk7O2SC7UJECSKbgpSJm",
+  "mobile": 7898789878,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b98f7d34d164ec0fad9fd0"
+  },
+  "name": "Garry",
+  "email": "garry@gmail.com",
+  "password": "$2b$10$z1odcSrrz3X6UpK9qy4UDusjUPD6sFU2GJtqs/jOmPSbCaYFwp2p2",
+  "mobile": 6789876789,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b99070a7dbec7665f353a7"
+  },
+  "name": "Harry",
+  "email": "harry@gmail.com",
+  "password": "$2b$10$ZLk5JVtTRx3gERx8gaBcBO5hXGNk2bols9C5e8V2/4eaC8rUZrkU.",
+  "mobile": 7687988787,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c044f083568a90113e37fc"
+  },
+  "name": "Peter",
+  "email": "peter@gmail.com",
+  "password": "$2b$10$g2zTun1C0NT3JIh5vATejuNdtPzRFOWR83uvTJ74WvalZRQQTJPsq",
+  "mobile": 2309482398,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c6dcb91864d666ab6849cd"
+  },
+  "name": "Shafi ",
+  "email": "shafi@gmail.com",
+  "password": "$2b$10$SIlJAqu3xL9WMQAliYUmier4lsrPu/csNJL0fs8qCSrHwZDTREro6",
+  "mobile": 9347239046,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c82a71b9bee9109c27653e"
+  },
+  "name": "Zelda",
+  "email": "zeldabee77@gmail.com",
+  "password": "$2b$10$qTfCjxxLctYRcy8THbS/DehzjpzfNlPymjulEgmltIIhvJ6NsM1eO",
+  "mobile": 8394978743,
+  "is_admin": false,
+  "is_active": true,
+  "__v": 8,
+  "Coupon": [
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66e022aec5b2bdbf12979d22"
+      }
+    },
+    {
+      "couponCode": "16",
+      "_id": {
+        "$oid": "66e02fc7ca31dbfc887b499b"
+      }
+    },
+    {
+      "couponCode": "24",
+      "_id": {
+        "$oid": "66e02febca31dbfc887b49e4"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66e03c36d87a46dc7659b1e2"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66e0409f979ebaabcddf4c45"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66efd6a7386c724fd6af5257"
+      }
+    },
+    {
+      "couponCode": "24",
+      "_id": {
+        "$oid": "66f283082ec6bbcac212033a"
+      }
+    },
+    {
+      "couponCode": "34",
+      "_id": {
+        "$oid": "66fba8eceb6a7e9f43663641"
+      }
+    }
+  ],
+  "token": ""
+}]

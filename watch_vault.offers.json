@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66fb979d2f18dc014e2618d1"
+  },
+  "offerName": "Offer",
+  "offerPercentage": 0,
+  "is_Active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb97a62f18dc014e2618d6"
+  },
+  "offerName": "Onam offer",
+  "offerPercentage": 40,
+  "is_Active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fb98372f18dc014e2618dc"
+  },
+  "offerName": "Monsoon Offer",
+  "offerPercentage": 30,
+  "is_Active": true,
+  "__v": 0
+}]

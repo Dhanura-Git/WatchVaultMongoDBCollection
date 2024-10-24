@@ -1,0 +1,344 @@
+[{
+  "_id": {
+    "$oid": "66e02c44ca31dbfc887b47f4"
+  },
+  "userId": {
+    "$oid": "66c82a71b9bee9109c27653e"
+  },
+  "balance": 47406.3,
+  "history": [
+    {
+      "amount": 12000,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-10T11:23:48.643Z"
+      },
+      "_id": {
+        "$oid": "66e02c44ca31dbfc887b47f5"
+      }
+    },
+    {
+      "amount": 10,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-10T11:24:22.281Z"
+      },
+      "_id": {
+        "$oid": "66e02c66ca31dbfc887b4809"
+      }
+    },
+    {
+      "amount": 5,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-10T11:25:08.227Z"
+      },
+      "_id": {
+        "$oid": "66e02c94ca31dbfc887b481f"
+      }
+    },
+    {
+      "amount": 100,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-10T11:30:16.880Z"
+      },
+      "_id": {
+        "$oid": "66e02dc8ca31dbfc887b4845"
+      }
+    },
+    {
+      "amount": 100,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-10T12:52:43.116Z"
+      },
+      "_id": {
+        "$oid": "66e0411b979ebaabcddf4cc6"
+      }
+    },
+    {
+      "amount": 1874.25,
+      "type": "credit",
+      "_id": {
+        "$oid": "66efd702386c724fd6af52b4"
+      },
+      "createdAt": {
+        "$date": "2024-09-22T08:36:18.170Z"
+      }
+    },
+    {
+      "amount": 500,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-09-22T08:37:24.283Z"
+      },
+      "_id": {
+        "$oid": "66efd744386c724fd6af5308"
+      }
+    },
+    {
+      "amount": 23997.6,
+      "type": "credit",
+      "_id": {
+        "$oid": "66f2836e2ec6bbcac212039c"
+      },
+      "createdAt": {
+        "$date": "2024-09-24T09:16:30.928Z"
+      }
+    },
+    {
+      "amount": 19380,
+      "type": "credit",
+      "_id": {
+        "$oid": "66f56b43635f5e0e5a317483"
+      },
+      "createdAt": {
+        "$date": "2024-09-26T14:10:11.180Z"
+      }
+    },
+    {
+      "amount": 15563.2,
+      "type": "credit",
+      "_id": {
+        "$oid": "66fbaa92eb6a7e9f43663764"
+      },
+      "createdAt": {
+        "$date": "2024-10-01T07:53:54.931Z"
+      }
+    }
+  ],
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "67037b3bbac63bb5f3519d39"
+  },
+  "userId": {
+    "$oid": "66a31a0aae1dc494eb7c3dca"
+  },
+  "balance": 3894.6499999999996,
+  "history": [
+    {
+      "amount": 3995,
+      "type": "credit",
+      "_id": {
+        "$oid": "67037b3bbac63bb5f3519d3a"
+      },
+      "createdAt": {
+        "$date": "2024-10-07T06:10:03.615Z"
+      }
+    },
+    {
+      "amount": 700,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-10-11T05:15:22.755Z"
+      },
+      "_id": {
+        "$oid": "6708b46a7c38151629979b79"
+      }
+    },
+    {
+      "amount": 100,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-10-12T05:47:15.252Z"
+      },
+      "_id": {
+        "$oid": "670a0d6330b0bfca99a50e3c"
+      }
+    },
+    {
+      "amount": 3995,
+      "type": "credit",
+      "_id": {
+        "$oid": "670b9eb798ae83060f6f1205"
+      },
+      "createdAt": {
+        "$date": "2024-10-13T10:19:35.324Z"
+      }
+    },
+    {
+      "amount": 4947.75,
+      "type": "credit",
+      "_id": {
+        "$oid": "670b9f98b7a22f45ac139dd8"
+      },
+      "createdAt": {
+        "$date": "2024-10-13T10:23:20.825Z"
+      }
+    },
+    {
+      "amount": 9648,
+      "type": "credit",
+      "_id": {
+        "$oid": "670ba04b77301db4089970d3"
+      },
+      "createdAt": {
+        "$date": "2024-10-13T10:26:19.048Z"
+      }
+    },
+    {
+      "amount": 9648,
+      "type": "credit",
+      "_id": {
+        "$oid": "670ba078e4b22a3cda11ce2b"
+      },
+      "createdAt": {
+        "$date": "2024-10-13T10:27:04.171Z"
+      }
+    },
+    {
+      "amount": 500,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-10-15T03:36:58.151Z"
+      },
+      "_id": {
+        "$oid": "670de35ae6eccb2e1e8480d4"
+      }
+    },
+    {
+      "amount": 10,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-10-15T03:37:36.419Z"
+      },
+      "_id": {
+        "$oid": "670de380e6eccb2e1e848135"
+      }
+    },
+    {
+      "amount": 70,
+      "type": "credit",
+      "createdAt": {
+        "$date": "2024-10-15T03:57:54.157Z"
+      },
+      "_id": {
+        "$oid": "670de84287d50d2623080b4b"
+      }
+    },
+    {
+      "amount": 849,
+      "type": "credit",
+      "_id": {
+        "$oid": "67163f62513ceb15787c7866"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T11:47:46.656Z"
+      }
+    },
+    {
+      "amount": 849,
+      "type": "credit",
+      "_id": {
+        "$oid": "671640dfc9f40b8718706b40"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T11:54:07.362Z"
+      }
+    },
+    {
+      "amount": 699.3,
+      "type": "credit",
+      "_id": {
+        "$oid": "67164173c9f40b8718706d6e"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T11:56:35.468Z"
+      }
+    },
+    {
+      "amount": 2872,
+      "type": "credit",
+      "_id": {
+        "$oid": "671644d019b8a762fb7d0b51"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:10:56.277Z"
+      }
+    },
+    {
+      "amount": 516.6,
+      "type": "credit",
+      "_id": {
+        "$oid": "671645fe19c8cb5672cd6860"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:15:58.899Z"
+      }
+    },
+    {
+      "amount": 1549.8,
+      "type": "credit",
+      "_id": {
+        "$oid": "6716467a2d3e9582a080854e"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:18:02.006Z"
+      }
+    },
+    {
+      "amount": 2190,
+      "type": "credit",
+      "_id": {
+        "$oid": "671647312d3e9582a08087df"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:21:05.643Z"
+      }
+    },
+    {
+      "amount": 1499,
+      "type": "credit",
+      "_id": {
+        "$oid": "671647672d3e9582a08089c6"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:21:59.773Z"
+      }
+    },
+    {
+      "amount": 1795,
+      "type": "credit",
+      "_id": {
+        "$oid": "671647d2ceae072ab0a06b9e"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:23:46.914Z"
+      }
+    },
+    {
+      "amount": 738,
+      "type": "credit",
+      "_id": {
+        "$oid": "67164833ceae072ab0a06daa"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:25:23.771Z"
+      }
+    },
+    {
+      "amount": 1597,
+      "type": "credit",
+      "_id": {
+        "$oid": "67164afcceae072ab0a06f52"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:37:16.027Z"
+      }
+    },
+    {
+      "amount": 1899,
+      "type": "credit",
+      "_id": {
+        "$oid": "67164c91ceae072ab0a071cb"
+      },
+      "createdAt": {
+        "$date": "2024-10-21T12:44:01.013Z"
+      }
+    }
+  ],
+  "__v": 21
+}]

@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "66bb10ce5f831af4cdc856be"
+  },
+  "userId": "66a31a0aae1dc494eb7c3dca",
+  "Address": [
+    {
+      "name": "Fathima",
+      "address": "Paathu house",
+      "addressType": "home",
+      "city": "Calicut",
+      "state": "Kerala",
+      "country": "India",
+      "pincode": 454345,
+      "phone": 9789787897,
+      "altphone": 7676566776,
+      "_id": {
+        "$oid": "66bf48681f6d0766dce67d80"
+      }
+    },
+    {
+      "name": "Fathima",
+      "address": "Brototype",
+      "addressType": "work",
+      "city": "Ernakulam",
+      "state": "Kerala",
+      "country": "India",
+      "pincode": 789987,
+      "phone": 8798099898,
+      "altphone": 9887988767,
+      "_id": {
+        "$oid": "66bf48911f6d0766dce67da4"
+      }
+    }
+  ],
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "66c82cd3b9bee9109c276599"
+  },
+  "userId": "66ac9d0bdbf12ca3d944b0e2",
+  "Address": [
+    {
+      "name": "Miku",
+      "address": "miku's house",
+      "addressType": "home",
+      "city": "Kollam",
+      "state": "Kerala",
+      "country": "India",
+      "pincode": 680517,
+      "phone": 9789787897,
+      "altphone": 7560676554,
+      "_id": {
+        "$oid": "66c82cd3b9bee9109c27659a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d08b5764ffe27e9970d041"
+  },
+  "userId": "66c82a71b9bee9109c27653e",
+  "Address": [
+    {
+      "name": "Zelda",
+      "address": "Zelda's house",
+      "addressType": "home",
+      "city": "Thrissur",
+      "state": "Kerala",
+      "country": "India",
+      "pincode": 680517,
+      "phone": 7560901522,
+      "altphone": 7798097687,
+      "_id": {
+        "$oid": "66ded8140a114ffd10fe1b30"
+      }
+    },
+    {
+      "name": "Zelda",
+      "address": "Brototype",
+      "addressType": "work",
+      "city": "Kochi",
+      "state": "Kerala",
+      "country": "India",
+      "pincode": 789987,
+      "phone": 7560901522,
+      "altphone": 7798097687,
+      "_id": {
+        "$oid": "66ded89a0a114ffd10fe1b41"
+      }
+    }
+  ],
+  "__v": 6
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "671a11d0f9cde56c4be3089a"
+  },
+  "couponName": "Free delivery",
+  "couponCode": "FRDE01",
+  "description": "coupon for the free delivery",
+  "expiryTime": "2024-11-08",
+  "minOrderValue": 500,
+  "discountValue": 40,
+  "created": {
+    "$date": "2024-10-24T09:22:24.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a11e8f9cde56c4be308a0"
+  },
+  "couponName": "Onam offer",
+  "couponCode": "rtrt",
+  "description": "fgdfgdfg",
+  "expiryTime": "2024-11-01",
+  "minOrderValue": 400,
+  "discountValue": 10,
+  "created": {
+    "$date": "2024-10-24T09:22:48.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a1228f9cde56c4be308a4"
+  },
+  "couponName": "Aadi sale",
+  "couponCode": "AASA02",
+  "description": "coupon for the aadi sale",
+  "expiryTime": "2024-11-10",
+  "minOrderValue": 600,
+  "discountValue": 30,
+  "created": {
+    "$date": "2024-10-24T09:23:52.704Z"
+  },
+  "__v": 0
+}]

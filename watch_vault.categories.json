@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66a4fd2efabceb80a5d174fd"
+  },
+  "categoryName": "Digital Watches",
+  "description": "Your Digital Companion on Your Wrist",
+  "is_Active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a4fd33fabceb80a5d17501"
+  },
+  "categoryName": "Analog Watches",
+  "description": "Timeless Elegance",
+  "is_Active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ab7fefbdff85ac6d63f469"
+  },
+  "categoryName": " Smart Watches",
+  "description": "Precision on Your Wrist",
+  "is_Active": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fbab15eb6a7e9f43663799"
+  },
+  "categoryName": "SMART WATCHES",
+  "description": "Precision on Your Wrist",
+  "is_Active": true,
+  "__v": 0
+}]
